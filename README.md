@@ -1,2 +1,11 @@
 # cpp-swimming-pool-calculator
-C++ object-oriented program that calculates swimming pool capacity, fill time, drain time, and remaining water volume based on pool dimensions and flow rates.
+
+A C++ object-oriented program that models a swimming pool and calculates capacity, fill time, drain time, and remaining water volume.
+
+## Features
+- Object-oriented class design
+- Pool capacity calculation
+- Fill time calculation
+- Drain time calculation
+- Remaining water calculation
+- User input for pool dimensions and rates
